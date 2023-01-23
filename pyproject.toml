@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "Solution"
+version = "0.0.1"
+description = "Solution for Team Lead position exercise"
+authors = ["Assaf Teyri"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^7.1.2"
+pytest-playwright = "^1.29.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
