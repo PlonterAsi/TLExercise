@@ -8,19 +8,19 @@ Now install the project, from within the project folder run (should install depe
 
 - poetry install
 
-!Note - if depndencies are not install (poetry issues) the run the following:
+!Note - if depndencies are not installed (poetry issues) then run the following command to install them manualy:
 
 - pip install pytest pytest-playwright
 
-Playwright needs to be installed before we can work with it
+Playwright needs to be installed before we can work with it by running:
 
 - playwright install
 
-To run the test run the pytest command
+To run the test run the pytest command.
 
 - pytest
 
-You can run specific tests like the following
+You can run specific tests like the following:
 
 - pytest .\solution\api_automation\
 - pytest .\solution\web_automation\
