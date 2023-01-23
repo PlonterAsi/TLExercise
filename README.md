@@ -4,7 +4,7 @@ In order to run the project install poetry.
 
 - pip install poetry
 
-Now install the project. From within the project folder run.
+Now install the project, from within the project folder run.
 
 - poetry install
 
